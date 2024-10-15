@@ -10,7 +10,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -27,6 +27,8 @@
 
 <br clear="both">
 
+<div align="center">
 <img src="https://raw.githubusercontent.com/malikgdesigns/malikgdesigns/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
